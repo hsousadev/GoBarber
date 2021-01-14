@@ -4,6 +4,7 @@ import User from '../models/User';
 
 import authConfig from '../../config/auth';
 
+// Git Teste
 
 class SessionController {
   async store (req, res) {
