@@ -5,7 +5,7 @@ import User from '../models/User';
 
 class UserController {
 
-  // STORE function to register a new User
+  // STORE function - CREATE A NEW USER
   async store(req, res) {
     const userExists = await User.findOne({ where: {email: req.body.email } });
 
@@ -24,6 +24,15 @@ class UserController {
       provider,
     });
   }
+
+  // UPDATE funciton - UPDATE USER
+  async update(req, res) {
+
+    
+
+    return res.json({ok: true});
+  }
+
 }
 
 export default new UserController();
