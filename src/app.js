@@ -11,7 +11,7 @@ class App {
 
   constructor(){
 
-    this.server = express()
+    this.server = express();
 
     // middlewares (extra functions)
     this.middlewares();
@@ -29,7 +29,7 @@ class App {
   routes(){
 
     // Allow the server to use routes
-    this.server.use(routes)
+    this.server.use(routes);
   }
 
 }

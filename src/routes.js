@@ -26,8 +26,6 @@ routes.put('/users', UserController.update);
 
 
 
-
-
 // Exporting (instance)
 export default routes;
 
