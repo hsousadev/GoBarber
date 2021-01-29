@@ -1,13 +1,26 @@
-[ENG]
 # GoBarber
+
+
+## [🇺🇸 ENG]
+
 Module 2 of NodeJS studies from Rocketseat Bootcamp. The goal of GoBarber is to manage schedules and manage a barber shop. Using Docker, Postgres, NodeJS and later React for the frontend.
 
-It's possible see all the documentation at this link:
+Follow documentation links: 
+
+**1 - Starting GoBarber backend [Finished]** 
 https://www.notion.so/F2-2-Iniciando-Back-end-do-GoBarber-5cdef67f93e84c21a79782294ed6c6bc
 
-[BR]
-# GoBarber
+**2 - Continuing GoBarber API [In progress]:**
+https://www.notion.so/F2-3-Continuando-API-do-GoBarber-Continuing-GoBarber-API-05222bae8f3a4048bb0eda194000753a
+
+## [🇧🇷 BR]
+
 Módulo 2 de estudos NodeJS da Rocketseat Bootcamp. O objetivo do GoBarber é administrar horários e gerenciar uma barbearia. Usando Docker, Postgres, NodeJS e posteriormente, terá o uso do React para o frontend.
 
-Você pode ver toda a documentação neste link:
-https://www.notion.so/F2-2-Starting-Back-end-do-GoBarber-5cdef67f93e84c21a79782294ed6c6bc
+Siga os links das documentações:
+
+**1 - Iniciando o back end do GoBarber [Finalizado]** 
+https://www.notion.so/F2-2-Iniciando-Back-end-do-GoBarber-5cdef67f93e84c21a79782294ed6c6bc
+
+**2 - Continuando API do GoBarber [Em desenvolvimento]:**
+https://www.notion.so/F2-3-Continuando-API-do-GoBarber-Continuing-GoBarber-API-05222bae8f3a4048bb0eda194000753a
