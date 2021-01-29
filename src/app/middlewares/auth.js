@@ -7,13 +7,14 @@ export default async (req, res, next) => {
   
   const authHeader = req.headers.authorization; 
 
+  console.log(authHeader);
 
   // Check if token exist 
   if (!authHeader) {
-    return res.status(401).json({ erro: 'Token not provide '});
+    return res.status(401).json({ error: 'Token not provide '});
   }
 
-  const [, token] = authHeader.split(' ');
+  const [bearer, token] = authHeader.split(' ');
 
   // Verify Token to autorization 
   try {
