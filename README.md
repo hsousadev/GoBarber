@@ -10,7 +10,7 @@ Follow documentation links:
 **1 - Starting GoBarber backend [Finished]** 
 https://www.notion.so/F2-2-Iniciando-Back-end-do-GoBarber-5cdef67f93e84c21a79782294ed6c6bc
 
-**2 - Continuing GoBarber API [Under developer]:**
+**2 - Continuing GoBarber API [In progress]:**
 https://www.notion.so/F2-3-Continuando-API-do-GoBarber-Continuing-GoBarber-API-05222bae8f3a4048bb0eda194000753a
 
 ## [🇧🇷 BR]
