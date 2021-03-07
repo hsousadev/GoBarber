@@ -1,5 +1,5 @@
 # GoBarber
-### Under development / Em desenvolvimento (2/5) <img src="https://www.flaticon.com/svg/vstatic/svg/1665/1665733.svg?token=exp=1612956238~hmac=958ac9ccf3d7895f6c771d2f493fffa8" alt="loading" width="25" height="25" style="margin-right: 20"/>
+### Under development / Em desenvolvimento (2/5) 🚧
 
 ## [🇺🇸 ENG]
 
